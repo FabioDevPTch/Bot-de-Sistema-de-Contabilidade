@@ -206,11 +206,11 @@ Pressione Enter para fechar o navegador e finalizar o programa.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Fabio** como projeto de estudo em Python, automação web, Playwright, manipulação de planilhas e automatização de processos administrativos.
+Desenvolvido por **FabioDevPTch** como projeto de estudo em Python, automação web, Playwright, manipulação de planilhas e automatização de processos administrativos.
 
 ## 📄 Licença
 
-Copyright © 2026 Fabio. Todos os direitos reservados.
+Copyright © 2026 FabioDevPTch. Todos os direitos reservados.
 
 Este projeto possui uma licença proprietária e está disponível publicamente apenas para fins de estudo, demonstração técnica e apresentação de portfólio.
 
