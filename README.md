@@ -39,3 +39,15 @@ A planilha deve possuir uma aba chamada `Lançamentos` e as colunas:
 python -m pip install -r requirements.txt
 python -m playwright install chromium
 python BotSistemaContabilidade.py
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Fabio**.
+
+## ©️ Direitos autorais
+
+Copyright © 2026 Fabio. Todos os direitos reservados.
+
+Este repositório está disponível para fins de estudo e apresentação de portfólio.
+A reutilização, modificação, distribuição ou comercialização do código depende
+de autorização prévia do autor.
